@@ -14,8 +14,8 @@ This is a simple and modern style restaurent website built with React JS and Tai
 
 #### 1. Download this repository or clone it via Git using the commands below:
 
-    $ git clone https://github.com/Saimcode/gericht-restaurent-website.git
-    $ cd gericht-restaurent-website
+    $ git clone https://github.com/DungTriNguyen/RestaurantWebsite.git
+    $ cd RestaurantWebsite
     
 #### 2. Install `node_modules` and other dependencies:
 
