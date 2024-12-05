@@ -1,9 +1,5 @@
 # Gericht | Restaurent Website built with React JS
 
-This is a simple and modern style restaurent website built with React JS and Tailwind CSS. It is a one page website with many different sections available which can be navigated via the navbar on top. This app is also fully mobile responsive.
-
-![Gericht | Restaurent Website built with React JS](https://github.com/Saimcode/gericht-restaurent-website/blob/main/Restaurent-App-Thumbnail.png?raw=true)
-
 ## 🔧 Getting Started
 
 ### 📍 Dependencies
@@ -37,10 +33,6 @@ It's a web-based program so you would need the following:
 
 ## ❔ Help
 
-Contact me on the links below:
-* [Linkedin](https://www.linkedin.com/in/saim-qureshi-703060234?original_referer=https%3A%2F%2Fsaimcode.github.io%2F)
-* [Instagram](https://www.instagram.com/_saim.f/)
-
 ## 🛠 Languages & Tools Used
 
 * React JS for building the UI
@@ -53,7 +45,6 @@ Contact me on the links below:
 
 ## 📝 Credits
 
-Setup provided by [JavaScript Mastery](https://github.com/adrianhajdin/).
 
 ## ©️ License
 
